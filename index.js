@@ -1,7 +1,7 @@
 const logger = require('@vue/cli-shared-utils')
 const webpack = require('webpack')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
-const ExtensionReloader = require('webpack-extension-reloader')
+const ExtensionReloader = require('webpack-ext-reloader')
 const ZipPlugin = require('zip-webpack-plugin')
 const { keyExists } = require('./lib/signing-key')
 const manifestTransformer = require('./lib/manifest')
