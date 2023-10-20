@@ -1,6 +1,6 @@
 # vue-cli-plugin-browser-extension
 
-Browser extension development plugin for vue-cli 3.x
+Browser extension development plugin for vue-cli 5.x
 
 ## What does it do?
 
