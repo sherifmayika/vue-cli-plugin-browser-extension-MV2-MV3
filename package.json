@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-browser-extension",
-  "version": "0.26.0",
+  "version": "0.28.0",
   "description": "Browser extension development plugin for vue-cli 5.0",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "plugin",
     "vue",
     "cli",
-    "3"
+    "5"
   ],
   "license": "LGPL-3.0-or-later",
   "repository": "git@github.com:adambullmer/vue-cli-plugin-browser-extension.git",
