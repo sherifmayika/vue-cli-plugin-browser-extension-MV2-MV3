@@ -30,7 +30,7 @@
     "imports-loader": "^0.8.0",
     "webextension-polyfill": "^0.10.0",
     "webpack": "^5.54.0",
-     "webpack-ext-reloader": "sherifmayika/webpack-ext-reloader",
+     "webpack-ext-reloader": "^1.1.10",
     "zip-webpack-plugin": "^4.0.1"
   }
 }
